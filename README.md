@@ -1,15 +1,19 @@
 # Hi, I'm Abdelrhman Zaher 👋
 
-Junior backend developer based in Birkeland, Norway. I build REST APIs with **C# / ASP.NET Core** and **Go**, and I like understanding what happens under the hood: memory, the runtime, and how requests flow through an app.
+Backend developer based in Birkeland, Norway. I build REST APIs with **C# / ASP.NET Core** and **Go**, and I like understanding what happens under the hood: memory, the runtime, and how requests flow through an app.
+
+I also have experience in data analysis with **Power BI** and **Azure**.
+
 
 🔎 **Open to junior developer roles in Norway.**
 
 ## 🛠️ Tech I work with
 
 **Backend:** C#, ASP.NET Core, Entity Framework Core, Go
-**Data:** SQL Server, SQLite
+**Data:** SQL, Power BI, Azure Data Explorer
 **Auth & testing:** JWT, role-based authorization, NUnit
 **Tools:** Git, VS Code, Swagger
+**Cloud & CI:** Azure, GitHub Actions
 
 ## 📂 Projects
 
