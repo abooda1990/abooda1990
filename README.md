@@ -19,4 +19,4 @@ REST API for approving supplier invoices. ASP.NET Core 8, EF Core, JWT with role
 
 ## 📫 Contact
 
-[LinkedIn](linkedin.com/in/abdelrhman-zaher-981508271) · [Abdelrhman.zaher90@gmail.com]
+[LinkedIn](linkedin.com/in/abdelrhman-zaher-981508271) 
