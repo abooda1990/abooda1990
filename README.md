@@ -1,4 +1,4 @@
-# Hi, I'm [ِAbdelrhman Zaher] 👋
+# Hi, I'm Abdelrhman Zaher 👋
 
 Junior backend developer based in Birkeland, Norway. I build REST APIs with **C# / ASP.NET Core** and **Go**, and I like understanding what happens under the hood: memory, the runtime, and how requests flow through an app.
 
